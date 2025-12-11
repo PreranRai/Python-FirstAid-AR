@@ -62,6 +62,3 @@ This project is a Computer Vision application developed in Python. It utilizes t
     * This project uses `np.int32` to ensure compatibility with newer NumPy versions.
 * **Band-aid is in the wrong place / Giant Green Box:**
     * Check the "Debug" window. If the green box is capturing the background (e.g., a wooden wall or curtains), try moving to a neutral background (white/grey wall) or holding the arm closer to the camera so the wound is the largest red object.
-
-## 👤 Author
-[Your Name]
